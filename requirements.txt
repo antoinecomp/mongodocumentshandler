@@ -1,0 +1,7 @@
+spacy==2.3.5
+unidecode
+beautifulsoup4
+pandas
+lxml
+pymongo
+dash_bootstrap_components
